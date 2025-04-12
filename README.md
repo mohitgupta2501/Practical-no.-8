@@ -76,3 +76,6 @@ Testing frameworks provide a structured approach to automate test scripts and va
    - Validates the complete Ayurvedic Management System by running end-to-end scenarios like patient registration to invoice generation.
   
 
+![image](https://github.com/user-attachments/assets/09182e16-b0f0-48e6-aa7f-0507c125556f)
+![image](https://github.com/user-attachments/assets/d8303fe4-4d34-48c6-81a5-943733bc4717)
+
